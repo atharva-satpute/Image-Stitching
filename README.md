@@ -2,4 +2,4 @@
 
 
 # Output
-!['Stitched Image'](/Images/stitched image.jpg)
+!['Stitched Image'](/Images/Stitched Image.jpg)
