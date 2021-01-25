@@ -2,4 +2,4 @@
 
 
 # Output
-![Stitched Image](https://github.com/atharva-satpute/Image-Stitching/blob/main/Images/Stitched Image.jpg?raw=True)
+![Stitched Image](https://github.com/atharva-satpute/Image-Stitching/blob/main/Images/Stitched%20Image.jpg?raw=True)
