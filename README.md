@@ -2,4 +2,4 @@
 
 
 # Output
-!['Stitched Image'](Images/Stitched Image.jpg)
+![Stitched Image](https://github.com/atharva-satpute/Image-Stitching/blob/main/Images/Stitched Image.jpg?raw=True)
